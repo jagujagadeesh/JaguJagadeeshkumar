@@ -1,4 +1,4 @@
-Hi i'm Jagadeesh kumar 😘😘
+Hi i'm Jagadeesh kumar
 
 <!--
 **JaguJagadeeshkumar/JaguJagadeeshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
